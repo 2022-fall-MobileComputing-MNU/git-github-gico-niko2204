@@ -2,7 +2,10 @@
 
 ## 🤓 Course overview and learning outcomes 
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+이 과정의 목표는 GitHub에 대한 간략한 소개를 제공하는 것입니다. 또한 추가 학습을 위한 자료와 플랫폼을 시작하는 데 도움이 되는 몇 가지 아이디어를 제공합니다. 🚀
+이 메시지를 읽었다면 github 클래스룸의 사용법을 어느정도 이해한 것입니다. 이제 아래의 내용을 보면서 깃허브 사용법을 익혀 보세요. 
+
+이영호 드림
 
 ## :octocat: Git and GitHub
 
